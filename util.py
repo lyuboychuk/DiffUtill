@@ -131,7 +131,7 @@ def CollisionCommandsMaker(actions):
 for command in CollisionCommandsMaker(Analyses()):
     print (*command)
 
-print ("exit 1")
+print ("exit 0")
 
         
 
